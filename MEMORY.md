@@ -11,6 +11,6 @@
 - **Railcard:** Senior Railcard (1/3 discount).
 
 ## Career & Background
-- **Identity:** Simon Rendell (born 5th Nov 1962).
-- **Career:** Former Partner at Osborne Clarke (Digital Business/TMT), former Interim Legal Director at Vodafone, Chairman of Pretty Green.
-- **Interests:** Rugby (Welsh), Tech Entrepreneurship, Networking.
+- **Identity:** Simon Davies (born 11th Jan 1961).
+- **Career:** Worked at Sony Broadcast in R&D, Was CTO at SVC televsion in London, Worked at Microsoft and SOFTIMAGE. Was Director and VP of Prodcut managemnt at AVID technology. Was VP at AOL/TIME Warner
+- **Interests:** Rugby (English), Tech Entrepreneurship, Music Production.
