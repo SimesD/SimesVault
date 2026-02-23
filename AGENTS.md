@@ -1,0 +1,1 @@
+/home/simond/.openclaw/workspace/AGENTS.md
