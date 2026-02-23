@@ -12,5 +12,5 @@
 
 ## Career & Background
 - **Identity:** Simon Davies (born 11th Jan 1961).
-- **Career:** Worked at Sony Broadcast in R&D, Was CTO at SVC televsion in London, Worked at Microsoft and SOFTIMAGE. Was Director and VP of Prodcut managemnt at AVID technology. Was VP at AOL/TIME Warner
-- **Interests:** Rugby (English), Tech Entrepreneurship, Music Production.
+- **Career:** Worked at Sony Broadcast in R&D, Was CTO at SVC televsion in London, Worked at Microsoft and SOFTIMAGE. Was Director and VP of Product managemnt at AVID technology. Was VP at AOL/TIME Warner
+- **Interests:** Rugby (English), Tech Entrepreneurship, Music Production. Formula 1 Motor Racing
