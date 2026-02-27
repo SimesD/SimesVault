@@ -1,11 +1,20 @@
+---
+tags:
+  - sime-claw
+  - obsidian-bridge
+  - onboarding
+created: 2026-02-23
+updated: 2026-02-25
+---
+
 # Welcome to SimesClaw's Bridge 🦞
 
 This vault is my "external brain" on the VM. 
 
 ## Goals
-- [ ] Establish sync with Simon's main vault
-- [ ] Audit content for the 1GB bloat
-- [ ] Extract actionable tasks from the noise
+- [ ] Establish sync with Simon's main vault ![[TODO#^welcome-task-1]]
+- [ ] Audit content for the 1GB bloat ![[TODO#^welcome-task-2]]
+- [ ] Extract actionable tasks from the noise ![[TODO#^welcome-task-3]]
 
 ## Project Context
 Simon's main vault is ~1GB. We need to decide whether to sync the *whole* thing or just a "working set" (e.g., Daily Notes + active projects).

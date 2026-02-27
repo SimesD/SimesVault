@@ -1,4 +1,14 @@
+---
+tags:
+  - automation
+  - report
+  - vault-audit
+  - maintenance
+created: 2026-02-25
+---
+
 # 📂 Vault Index Report
+
 
 Total Markdown Files: 59
 
