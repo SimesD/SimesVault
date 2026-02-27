@@ -4,7 +4,7 @@ tags:
   - obsidian-bridge
   - onboarding
 created: 2026-02-23
-updated: 2026-02-25
+updated: 2026-02-27
 ---
 
 # Welcome to SimesClaw's Bridge 🦞
@@ -21,3 +21,4 @@ Simon's main vault is ~1GB. We need to decide whether to sync the *whole* thing 
 
 ## Maintenance Logs
 - **2026-02-23**: Vault initialized. Directory structure created.
+- **2026-02-27**: Performed routine maintenance. Organized GitHub Alerts into date-based subfolders (`Archive/GitHub-Alerts/2026/02`). Synced yesterday's memory from the main OpenClaw workspace to `memory/2026-02-26.md`. Verified current vault size (11MB).
